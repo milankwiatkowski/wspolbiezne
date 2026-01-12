@@ -4,7 +4,7 @@ import os
 from multiprocessing import Pool, cpu_count, freeze_support
 
 # -------------------------
-# Parametry testu (zmień na duży przedział)
+# Parametry testu (można zmieneić na duży przedział)
 # -------------------------
 L = 1_000_000
 R = 2_000_000
